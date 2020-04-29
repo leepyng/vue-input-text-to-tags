@@ -1,5 +1,8 @@
 # vue-input-text-to-tags
 A input component that can create tags for the result display
+
+<img src="https://user-images.githubusercontent.com/10140473/80558094-a83c0300-8a0b-11ea-9f18-f894ef2c2536.gif" alt="Coverage Status">
+
 # install
 	
 	npm install vue-input-text-to-tags --save
